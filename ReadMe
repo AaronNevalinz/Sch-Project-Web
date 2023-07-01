@@ -1,0 +1,11 @@
+# OUTLINE
+
+## Challenge
+- In the testimonials section was trying to resize the image to fit into the parent div container. Achieved this with the 'object-fit' property...
+- 
+### Resources
+[Object Fit Solution](https://www.geeksforgeeks.org/how-to-auto-resize-an-image-to-fit-a-div-container-using-css/)
+
+## Learnt
+Flex containers will always create an overflow problem, to avoid this and easily capture the issue; always use 
+`flex-wrap: wrap` to show you where the items of the flex container exceed the container itself.
